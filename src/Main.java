@@ -5,7 +5,7 @@ public class Main {
 
     // Programme boucle main toujour
     public static void main(String[] args) {
-        int but = 19;
+        int but = 119;
         Boolean reussie = false;
         Scanner scanner = new Scanner(System.in);// creer loutlle
         //int num = scanner.nextInt();//lire entier et le mettre dans num
